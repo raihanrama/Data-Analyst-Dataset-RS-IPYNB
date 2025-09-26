@@ -153,7 +153,6 @@ Dashboard interaktif telah dibuat dengan fitur-fitur:
 - Cost breakdown
 - Profitability metrics
 
-**🔗 [Link ke Dashboard Looker Studio](https://lookerstudio.google.com/your-dashboard-link)**
 
 ## 🚀 Cara Menjalankan Proyek
 
