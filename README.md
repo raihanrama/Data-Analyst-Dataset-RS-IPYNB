@@ -209,7 +209,7 @@ Kontribusi sangat diterima! Silakan:
 
 **Muhammad Raihan Ramadhan**
 - 📧 Email: [muhammadraihan291003@gmail.com](mailto:muhammadraihan291003@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 💼 LinkedIn: [Muhammad Raihan Ramadhan](https://www.linkedin.com/in/muhammad-raihan-ramadhan-3735b5293/)
 - 🐱 GitHub: [@raihanrama](https://github.com/raihanrama)
 
 ## 📄 Lisensi
