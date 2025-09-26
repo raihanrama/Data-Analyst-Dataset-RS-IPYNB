@@ -208,7 +208,7 @@ Kontribusi sangat diterima! Silakan:
 ## 📧 Kontak
 
 **Muhammad Raihan Ramadhan**
-- 📧 Email: [muhammadraihan291003@gmail.com]
+- 📧 Email: [muhammadraihan291003@gmail.com](mailto:muhammadraihan291003@gmail.com)
 - 💼 LinkedIn: [Your LinkedIn Profile]
 - 🐱 GitHub: [@raihanrama](https://github.com/raihanrama)
 
