@@ -13,7 +13,7 @@ Proyek ini merupakan analisis komprehensif terhadap data rumah sakit yang mencak
 
 - **Menganalisis pola kunjungan pasien** dan tren historis
 - **Mengidentifikasi faktor-faktor** yang mempengaruhi tingkat okupansi
-- **Mengoptimalkan alokasi sumber daya** rumah sakit
+- **Mengoptimalkan alokasi sumber daya** yang terdapat dirumah sakit
 - **Memberikan rekomendasi strategis** berdasarkan data
 - **Membuat dashboard interaktif** untuk monitoring real-time
 
