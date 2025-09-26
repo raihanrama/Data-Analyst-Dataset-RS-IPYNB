@@ -30,7 +30,6 @@ Proyek ini merupakan analisis komprehensif terhadap data rumah sakit yang mencak
 
 ### Visualization & Reporting
 - **Looker Studio** - Dashboard dan pelaporan
-- **Google Sheets** - Integrasi data
 
 ## 📊 Dataset
 
