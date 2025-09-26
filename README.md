@@ -7,7 +7,7 @@
 
 ## 📋 Deskripsi Proyek
 
-Proyek ini merupakan analisis komprehensif terhadap data rumah sakit yang mencakup seluruh siklus analisis data, mulai dari pengumpulan data, pembersihan, analisis, hingga visualisasi dalam bentuk dashboard interaktif. Tujuan utama adalah memberikan insights yang actionable untuk meningkatkan efisiensi operasional rumah sakit dan kualitas pelayanan pasien.
+Proyek ini merupakan analisis komprehensif terhadap data rumah sakit yang mencakup seluruh siklus analisis data, mulai dari pengumpulan data, pembersihan, analisis, hingga visualisasi dalam bentuk dashboard interaktif. Tujuan utama adalah memberikan insights yang actionable untuk meningkatkan efisiensi operasional rumah sakit dan kualitas pelayanan pasien di rumah sakit.
 
 ## 🎯 Tujuan Proyek
 
