@@ -216,12 +216,6 @@ Kontribusi sangat diterima! Silakan:
 
 Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail.
 
-## 🙏 Acknowledgments
-
-- Tim manajemen rumah sakit atas penyediaan data
-- Komunitas data science Indonesia
-- Contributors dan reviewers
-
 ---
 
 **⭐ Jika proyek ini bermanfaat, jangan lupa berikan star!**
