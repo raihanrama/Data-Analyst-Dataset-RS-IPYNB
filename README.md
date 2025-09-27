@@ -1,4 +1,4 @@
-# Hospital Data Analysis Project 🏥📊
+# Hospital Data Analysis Project 🏥
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
