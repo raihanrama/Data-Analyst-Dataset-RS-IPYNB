@@ -43,39 +43,6 @@ Dataset yang digunakan dalam proyek ini mencakup:
 
 > **Catatan**: Semua data telah dianonimisasi dan mengikuti protokol privasi yang ketat.
 
-## 🚀 Struktur Proyek
-
-```
-Data-Analyst-Dataset-RS-IPYNB/
-│
-├── data/
-│   ├── raw/                    # Data mentah
-│   ├── processed/              # Data yang sudah dibersihkan
-│   └── external/              # Data eksternal/referensi
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_exploratory_analysis.ipynb
-│   ├── 04_statistical_analysis.ipynb
-│   └── 05_machine_learning.ipynb
-│
-├── src/
-│   ├── data_processing.py
-│   ├── visualization.py
-│   └── utils.py
-│
-├── reports/
-│   ├── figures/               # Grafik dan visualisasi
-│   └── final_report.pdf       # Laporan akhir
-│
-├── dashboard/
-│   └── looker_studio_config/
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
 
 ## 📈 Metodologi Analisis
 
