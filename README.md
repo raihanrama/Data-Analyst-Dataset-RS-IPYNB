@@ -26,7 +26,7 @@ Proyek ini merupakan analisis komprehensif terhadap data rumah sakit yang mencak
 - **NumPy** - Komputasi numerik
 - **Matplotlib & Seaborn** - Visualisasi data
 - **Plotly** - Visualisasi interaktif
-- **Scikit-learn** - Machine learning (jika applicable)
+- **Scikit-learn** - Machine learning 
 
 ### Visualization & Reporting
 - **Looker Studio** - Dashboard dan pelaporan
