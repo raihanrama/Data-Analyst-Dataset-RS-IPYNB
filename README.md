@@ -196,4 +196,4 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) unt
 ![GitHub issues](https://img.shields.io/github/issues/raihanrama/Data-Analyst-Dataset-RS-IPYNB)
 ![GitHub stars](https://img.shields.io/github/stars/raihanrama/Data-Analyst-Dataset-RS-IPYNB)
 
-**Last Updated**: September 2025
+**Last Updated**: Oktober 2025
